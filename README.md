@@ -1,5 +1,10 @@
 # ai-judge-relax-01 — "Make the AI judge relax"
 
+[![make.fun · ai-judge-relax-01](https://make.fun/badge/ai-judge-relax-01.svg)](https://make.fun/bounty/ai-judge-relax-01?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-relax-01)
+[![rank](https://make.fun/badge/ai-judge-relax-01/Dhancok007/ai-judge-relax-01-entry/rank.svg)](https://make.fun/bounty/ai-judge-relax-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-relax-01)
+[![reward](https://make.fun/badge/ai-judge-relax-01/Dhancok007/ai-judge-relax-01-entry/reward.svg)](https://make.fun/bounty/ai-judge-relax-01?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-relax-01)
+
+
 Entry for the make.fun bounty `ai-judge-relax-01`. The program writes one
 short plain-text piece to `/output/entry.txt`; a house AI judge reads entries
 in pairs and picks the one that leaves it more relaxed.
